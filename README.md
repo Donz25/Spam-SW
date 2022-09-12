@@ -1,2 +1,2 @@
-# anjayy
-Yayayay
+$cd spam-scw
+$python spam.py
