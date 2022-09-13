@@ -1,4 +1,4 @@
-# Spam SCW
+# Spam SW
 ```
 Tools ini dibuat buat lu
 yang suka ngerjain temen
@@ -6,7 +6,7 @@ yang suka ngerjain temen
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
 ## How to it?
 ```python
-$ cd spam-scw
+$ cd spam-sw
 $ python spam.py
 ```
 > Get Token [click here](https://bit.ly/TokenSpamScw)
