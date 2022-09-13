@@ -7,7 +7,7 @@ yang suka ngerjain temen
 ## How to it?
 ```python
 $ cd spam-sw
-$ python spam.py
+$ python spamSW.py
 ```
 > Get Token [click here](https://bit.ly/TokenSpamScw)
 ## Support Me On
