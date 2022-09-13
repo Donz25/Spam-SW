@@ -1,6 +1,6 @@
 # Compile by Donz
 # Youtube : Donz25
-# Github  : https://github.com/Dxp-ID
+# Github  : https://github.com/donz25
 # Mau recode ya? Izin dulu Slur >_<
 # Jangan di edit nanti error Slur!!
 Donz = ('OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO',
